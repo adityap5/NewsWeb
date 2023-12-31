@@ -52,7 +52,6 @@ html,body{
 }
 .main-body{
     margin-top:40px;
-    background-color:gray;
     height:84%;
     width: 100%;
     display: flex;
