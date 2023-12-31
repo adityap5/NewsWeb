@@ -18,6 +18,7 @@ html,body{
 }
 .nav-left img{
  height:85px;
+ cursor: pointer;
 }
 .nav-middle{
     display: flex;
